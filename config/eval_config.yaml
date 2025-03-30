@@ -1,0 +1,6 @@
+checkpoint_path: "checkpoints/best.pth"
+dataset_path: "/kodak"
+model: "mbt2018-mean"
+batch_size: 8
+num_workers: 2
+patch_size: 256

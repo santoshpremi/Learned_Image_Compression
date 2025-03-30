@@ -1,0 +1,8 @@
+# Install dependencies
+pip install -r requirements.txt
+
+# Run training (automatically creates checkpoints folder)
+python src/train.py
+
+# Run evaluation
+python src/evaluate.py

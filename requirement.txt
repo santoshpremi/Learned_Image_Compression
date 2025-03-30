@@ -1,0 +1,7 @@
+compressai>=1.2.0
+torch>=2.0.0
+torchvision>=0.15.0
+lpips>=0.1.4
+pyyaml>=6.0
+numpy>=1.24.0
+matplotlib>=3.7.0
